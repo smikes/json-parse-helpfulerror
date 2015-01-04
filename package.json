@@ -1,6 +1,6 @@
 {
   "name": "json-parse-helpfulerror",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A drop-in replacement for JSON.parse that uses `jju` to give helpful errors",
   "main": "index.js",
   "scripts": {
